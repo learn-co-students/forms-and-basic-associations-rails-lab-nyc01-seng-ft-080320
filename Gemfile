@@ -45,4 +45,6 @@ group :development, :test do
   gem 'spring'
   gem 'rspec-rails', '~> 3.7'
   gem 'capybara'
+  gem 'better_errors'
+  gem 'binding_of_caller'
 end
